@@ -1,2 +1,2 @@
 web: java -Dserver.port=$PORT -Dspring.profiles.active=prod $JAVA_OPTS -jar
-target/appuchinoApp-0.0.1-SNAPSHOT.jar
+target/cappuchinoApp-0.0.1-SNAPSHOT.jar
